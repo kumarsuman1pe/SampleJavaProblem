@@ -1,11 +1,24 @@
 package com.singleton;
 
-public class SingletonTest {
+class SingletonTest {
 
-	public static void main(String[] args) {
-		System.out.println("Hello");
-		System.out.println("Hello");
-		System.out.println("Hello for GIT HUB");
+	private SingletonTest() {
+
+	}
+
+	private static SingletonTest soleInstance = null;
+
+	public static SingletonTest getSouleInstance() {
+		if (soleInstance == null) {
+			synchronized (SingletonTest.class) {
+				if (soleInstance == null) {
+					soleInstance = new SingletonTest();
+				}
+
+			}
+
+		}
+		return soleInstance;
 
 	}
 
