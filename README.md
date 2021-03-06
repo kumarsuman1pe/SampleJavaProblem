@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZ
 Garbage Collection in JAVA
 https://www.youtube.com/watch?v=UnaNQgzw4zY&t=204s
 
+JVM
+https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=29s
+
 Java Memory management:
 (Naveen Automation)
 
