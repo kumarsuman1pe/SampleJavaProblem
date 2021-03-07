@@ -9,9 +9,6 @@ https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 Collections Videos:
 https://www.youtube.com/playlist?list=PLFGoYjJG_fqoDQHufg7XVk-yb2w6CNpgF
 
-Sorting Algo
-https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=2
-
 Garbage Collection in JAVA
 https://www.youtube.com/watch?v=UnaNQgzw4zY&t=204s
 
@@ -24,3 +21,11 @@ Java Memory management:
 https://www.youtube.com/watch?v=4yKxJjYXZ0A
 
 https://www.youtube.com/watch?v=aAjkJW08BGQ&t=243s
+
+Sorting Algo
+https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=2
+
+Quick Sort
+https://www.interviewbit.com/tutorial/quicksort-algorithm/
+https://www.youtube.com/watch?v=QN9hnmAgmOc
+https://www.youtube.com/watch?v=7h1s2SojIRw
