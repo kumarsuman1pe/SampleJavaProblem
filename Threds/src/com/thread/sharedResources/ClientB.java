@@ -1,4 +1,4 @@
-package com.thread.clients;
+package com.thread.sharedResources;
 
 import com.thread.sharedResources.MyPrinter;
 
