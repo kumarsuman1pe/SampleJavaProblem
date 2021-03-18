@@ -6,7 +6,7 @@ import java.util.HashMap;
  * This example explains about the importance of .equals() and hashCode()
  * If we are using Hashing related DS then The object will be great candidate for Key
  * iff the object override the .equals() methods and hashCode() method
- * if its overriding these then we wont get compilation any compilation error 
+ * if its not overriding these then we wont get any compilation error 
  * but the program behave strange in some cases.
  */
 public class EqualsAndHashcodeCOncepts {

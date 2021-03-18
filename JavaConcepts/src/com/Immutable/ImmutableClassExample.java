@@ -7,7 +7,7 @@ package com.Immutable;
  * 3. Don't expose setter method
  * 4. Do initialization through constructor
  * 5. Exposed method should always create new instance when its modifying the fields
- * 5. Do deep coupling in constructor for all mutable object and getter for mutable objects should return the cloned copy instead of actual reference 
+ * 6. Do deep coupling in constructor for all mutable object and getter for mutable objects should return the cloned copy instead of actual reference 
  */
 public class ImmutableClassExample {
 

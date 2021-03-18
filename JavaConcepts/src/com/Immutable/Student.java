@@ -2,10 +2,13 @@ package com.Immutable;
 
 public final class Student {
 	/*
-	 * steps: 1. Make class as final so it can not be extended 2. Make all fields as
-	 * private and final 3. Don't expose setter method 4. Do initialization through
-	 * constructor 5. Exposed method should always create new instance when its
-	 * modifying the fields 5. Do deep coupling in constructor for all mutable
+	 * steps: 
+	 * 1. Make class as final so it can not be extended 
+	 * 2. Make all fields as private and final :CONSTANT
+	 * 3. Don't expose setter method 
+	 * 4. Do initialization through constructor 
+	 * 5. Exposed method should always create new instance when its modifying the fields 
+	 * 6. Do deep coupling in constructor for all mutable
 	 * object and getter for mutable objects should return the cloned copy instead
 	 * of actual reference
 	 */

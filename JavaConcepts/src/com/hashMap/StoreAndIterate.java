@@ -6,10 +6,10 @@ import java.util.Map.Entry;
 
 public class StoreAndIterate {
 	/*
-	 * 1. Key can't be duplicate(in case of duplicate the latest value will be
-	 * stored) 2. Values can be duplicate 3. Null key-> Single time allowed else(in
-	 * case of duplicate the latest value will be stored) 4. NO ORDER stored in
-	 * respect of Key & Value 5.
+	 * 1. Key can't be duplicate(in case of duplicate the latest value will be stored) 
+	 * 2. Values can be duplicate 
+	 * 3. Null key-> Single time allowed else(in case of duplicate the latest value will be stored) 
+	 * 4. NO ORDER stored in respect of Key & Value
 	 */
 
 	public static void main(String[] args) {
