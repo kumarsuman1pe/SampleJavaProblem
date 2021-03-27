@@ -3,7 +3,7 @@ package com.practice.recursions;
 public class PowerByRecurssion {
 
 	public static void main(String[] args) {
-		int m = 2, n = -1;
+		int m = 2, n = 2;
 		int result = powerUsingRecurssion(m, n);
 		System.out.println("Power of " + m + " to the power " + n + " is :" + result);
 	}
