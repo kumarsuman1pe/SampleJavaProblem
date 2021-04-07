@@ -12,6 +12,8 @@ https://dzone.com/articles/singleton-in-java
 HashMap Internal Working
 https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
 
+https://www.youtube.com/watch?v=UwurUtvil7w&t=13s
+
 Generic in java
 https://www.geeksforgeeks.org/generics-in-java/
 
