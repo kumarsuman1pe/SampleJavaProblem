@@ -6,6 +6,10 @@ https://www.interviewbit.com/java-interview-questions/
 Immutable class in java
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 
+Singleton Class
+https://dzone.com/articles/singleton-in-java
+
+
 Generic in java
 https://www.geeksforgeeks.org/generics-in-java/
 
