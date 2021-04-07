@@ -9,6 +9,8 @@ https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 Singleton Class
 https://dzone.com/articles/singleton-in-java
 
+HashMap Internal Working
+https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
 
 Generic in java
 https://www.geeksforgeeks.org/generics-in-java/
