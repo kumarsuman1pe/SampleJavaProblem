@@ -42,3 +42,5 @@ https://www.interviewbit.com/tutorial/quicksort-algorithm/
 https://www.youtube.com/watch?v=QN9hnmAgmOc
 
 https://www.youtube.com/watch?v=7h1s2SojIRw
+
+volatile keyword in java http://tutorials.jenkov.com/java-concurrency/volatile.html
