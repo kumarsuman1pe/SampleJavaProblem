@@ -44,3 +44,5 @@ https://www.youtube.com/watch?v=QN9hnmAgmOc
 https://www.youtube.com/watch?v=7h1s2SojIRw
 
 volatile keyword in java http://tutorials.jenkov.com/java-concurrency/volatile.html
+
+Different ways of creating object https://www.geeksforgeeks.org/different-ways-create-objects-java/
