@@ -1,10 +1,9 @@
-package com.sorting.comparable;
+package com.sorting.comparator;
 
-import java.util.Collections;
 import java.util.Set;
 import java.util.TreeSet;
 
-import com.sorting.comparator.Student;
+import com.sorting.comparable.Student;
 
 public class ComparatorConcepts {
 	/**

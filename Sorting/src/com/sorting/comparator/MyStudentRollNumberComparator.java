@@ -1,8 +1,8 @@
-package com.sorting.comparable;
+package com.sorting.comparator;
 
 import java.util.Comparator;
 
-import com.sorting.comparator.Student;
+import com.sorting.comparable.Student;
 
 public class MyStudentRollNumberComparator implements Comparator<Student> {
 

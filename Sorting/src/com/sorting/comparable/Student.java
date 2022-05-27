@@ -1,4 +1,4 @@
-package com.sorting.comparator;
+package com.sorting.comparable;
 
 public class Student implements Comparable<Student> {
 	private int roll;
