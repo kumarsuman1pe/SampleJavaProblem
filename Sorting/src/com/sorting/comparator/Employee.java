@@ -1,4 +1,4 @@
-package com.sorting;
+package com.sorting.comparator;
 
 public class Employee implements Comparable<Employee>{
 

@@ -1,4 +1,4 @@
-package com.sorting;
+package com.sorting.comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
