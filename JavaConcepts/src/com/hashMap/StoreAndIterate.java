@@ -45,7 +45,6 @@ public class StoreAndIterate {
 
 		// Iterate through Lamda Expression
 		capitalMap.forEach((k, v) -> System.out.println(" Key --> " + k + " Value -->" + v));
-
 	}
 
 }
