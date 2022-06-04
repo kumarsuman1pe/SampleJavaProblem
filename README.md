@@ -1,7 +1,11 @@
 # SampleJavaProblem
 
 Important Java Interview coding Questions:
+https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
+
 https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UN4ErD1w
+
+***** https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
 
 Important Java Interview Questions:
 https://www.interviewbit.com/java-interview-questions/
