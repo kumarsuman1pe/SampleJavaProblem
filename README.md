@@ -53,3 +53,5 @@ https://www.youtube.com/watch?v=7h1s2SojIRw
 volatile keyword in java http://tutorials.jenkov.com/java-concurrency/volatile.html
 
 Different ways of creating object https://www.geeksforgeeks.org/different-ways-create-objects-java/
+
+How to create your own Annotation?(Asked on Oracle and FICO) https://www.youtube.com/watch?v=DkZr7_c9ry8
