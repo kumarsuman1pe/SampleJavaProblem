@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
 https://www.youtube.com/watch?v=UwurUtvil7w&t=13s
 
 Generic in java
-https://www.geeksforgeeks.org/generics-in-java/
+https://www.youtube.com/watch?v=K1iu1kXkVoA
 
 Collections Videos:
 https://www.youtube.com/playlist?list=PLFGoYjJG_fqoDQHufg7XVk-yb2w6CNpgF
