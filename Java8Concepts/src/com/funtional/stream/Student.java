@@ -1,16 +1,9 @@
-package com.objectClassMethods;
+package com.funtional.stream;
 
-public class Student implements Cloneable{
-
-	public Student(int id, String name) {
-		this.id = id;
-		this.name = name;
-	}
-
-	private int id;
-	private String name;
-
-	public int getId() {
+public class Student {
+	public int id;
+	String name;
+	public int getid() {
 		return id;
 	}
 
@@ -26,6 +19,13 @@ public class Student implements Cloneable{
 		this.name = name;
 	}
 
+	public Student(int id, String name) {
+		this.id = id;
+		this.name = name;
+	}
+
+	
+
 	@Override
 	public String toString() {
 		return "Student [id=" + id + ", name=" + name + "]";
@@ -33,23 +33,20 @@ public class Student implements Cloneable{
 
 	@Override
 	public int hashCode() {
-		return id;
+		return this.id;
 	}
 
 	@Override
 	public boolean equals(Object obj) {
-		Student s = (Student) obj;
 		if (obj == null)
 			return false;
+		boolean isEqual = false;
 		if (obj instanceof Student) {
-			return this.id == s.id && this.name.equals(s.name);
-		} else {
-			return false;
+			Student s = (Student) obj;
+			if (this.id == s.id && this.name.equalsIgnoreCase(s.name)) {
+				isEqual = true;
+			}
 		}
+		return isEqual;
 	}
-	@Override
-    protected  Object clone() {
-		return this;
-	}
-
 }

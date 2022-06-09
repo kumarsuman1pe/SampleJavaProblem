@@ -1,5 +1,11 @@
 package com.objectClassMethods;
 
+/***
+ * Object class method's and explanation
+ * 
+ * @author sumankumar
+ *
+ */
 public class ObjectClassMethodsConcepts {
 
 	public static void main(String[] args) {
@@ -20,18 +26,18 @@ public class ObjectClassMethodsConcepts {
 		 */
 		Student studunt2 = new Student(101, "Alex");
 		Student studunt3 = studunt2;
-		
+
 		boolean isEquals = studunt.equals(studunt3);
 		System.out.println("Is objects are Equals: " + isEquals);
 
 		/**
 		 * finalize() will be called just before the object get destroyed
 		 */
-		//System.gc();
-		
-		Student s5=(Student) studunt2.clone();
+		// System.gc();
+
+		Student s5 = (Student) studunt2.clone();
 		System.out.println(s5);
-		
+
 	}
 
 }
