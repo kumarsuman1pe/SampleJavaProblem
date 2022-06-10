@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
 https://www.youtube.com/watch?v=UwurUtvil7w&t=13s
 
 Generic in java
-https://www.geeksforgeeks.org/generics-in-java/
+https://www.youtube.com/watch?v=K1iu1kXkVoA
 
 Collections Videos:
 https://www.youtube.com/playlist?list=PLFGoYjJG_fqoDQHufg7XVk-yb2w6CNpgF
@@ -53,3 +53,14 @@ https://www.youtube.com/watch?v=7h1s2SojIRw
 volatile keyword in java http://tutorials.jenkov.com/java-concurrency/volatile.html
 
 Different ways of creating object https://www.geeksforgeeks.org/different-ways-create-objects-java/
+
+How to create your own Annotation?(Asked on Oracle and FICO) https://www.youtube.com/watch?v=DkZr7_c9ry8
+
+**Design Patterns:**
+
+https://www.youtube.com/watch?v=gw-XKtlEiEA
+
+https://www.youtube.com/watch?v=QsBQnFUx388
+
+https://www.youtube.com/watch?v=EdIwFK0gCm4&t=167s
+
