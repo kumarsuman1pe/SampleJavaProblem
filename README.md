@@ -64,3 +64,6 @@ https://www.youtube.com/watch?v=QsBQnFUx388
 
 https://www.youtube.com/watch?v=EdIwFK0gCm4&t=167s
 
+Java concepts
+
+https://www.youtube.com/c/CodingwithJohn
