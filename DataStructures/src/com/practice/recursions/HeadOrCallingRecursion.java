@@ -1,6 +1,6 @@
 package com.practice.recursions;
 
-public class TailOrReturningRecursion {
+public class HeadOrCallingRecursion {
 	public static void mian(String[] arg) {
 		int n = 5;
 		fun(n);

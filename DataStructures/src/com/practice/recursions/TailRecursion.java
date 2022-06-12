@@ -6,18 +6,18 @@ package com.practice.recursions;
  * @author sumankumar
  *
  */
-public class CallingOrHeadRecursion {
+public class TailRecursion {
 
 	public static void main(String[] args) {
 		int n = 4;
-		fun1(n);
+		fun(n);
 	}
 
-	private static void fun1(int n) {
+	private static void fun(int n) {
 		// base condition: to terminate the recursion
-		if (n > 0)  {
+		if (n > 0) {
 			System.out.println(n);
-			fun1(n - 1);
+			fun(n - 1);
 
 		}
 	}
