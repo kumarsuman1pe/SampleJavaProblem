@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=UwurUtvil7w&t=13s
 Generic in java
 https://www.youtube.com/watch?v=K1iu1kXkVoA
 
+https://www.baeldung.com/java-generics#generic-methods
+
+
 Collections Videos:
 https://www.youtube.com/playlist?list=PLFGoYjJG_fqoDQHufg7XVk-yb2w6CNpgF
 
