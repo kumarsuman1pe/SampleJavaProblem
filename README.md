@@ -13,6 +13,8 @@ https://www.interviewbit.com/java-interview-questions/
 Immutable class in java
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 
+https://www.youtube.com/watch?v=Bj9Mx_Lx3q4
+
 Singleton Class
 https://dzone.com/articles/singleton-in-java
 
