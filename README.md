@@ -3,12 +3,16 @@
 Important Java Interview coding Questions:
 https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
 
+https://www.softwaretestinghelp.com/java-coding-interview-programs/
+
 https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UN4ErD1w
 
 ***** https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
 
 Important Java Interview Questions:
 https://www.interviewbit.com/java-interview-questions/
+
+******************************************************************* **Important concepts** **************************************
 
 Immutable class in java
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
@@ -46,15 +50,7 @@ https://www.youtube.com/watch?v=4yKxJjYXZ0A
 
 https://www.youtube.com/watch?v=aAjkJW08BGQ&t=243s
 
-Sorting Algo
-https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=2
 
-Quick Sort
-https://www.interviewbit.com/tutorial/quicksort-algorithm/
-
-https://www.youtube.com/watch?v=QN9hnmAgmOc
-
-https://www.youtube.com/watch?v=7h1s2SojIRw
 
 volatile keyword in java http://tutorials.jenkov.com/java-concurrency/volatile.html
 
@@ -62,7 +58,10 @@ Different ways of creating object https://www.geeksforgeeks.org/different-ways-c
 
 How to create your own Annotation?(Asked on Oracle and FICO) https://www.youtube.com/watch?v=DkZr7_c9ry8
 
-**Design Patterns:**
+********************************************************************* **Design Patterns** ***************************************************
+
+
+
 
 https://www.youtube.com/watch?v=gw-XKtlEiEA
 
@@ -73,3 +72,19 @@ https://www.youtube.com/watch?v=EdIwFK0gCm4&t=167s
 Java concepts
 
 https://www.youtube.com/c/CodingwithJohn
+
+
+********************************************************************* **Sorting Algo** ***************************************************
+
+
+Sorting Algo
+https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=2
+
+Quick Sort
+https://www.interviewbit.com/tutorial/quicksort-algorithm/
+
+https://www.youtube.com/watch?v=QN9hnmAgmOc
+
+https://www.youtube.com/watch?v=7h1s2SojIRw
+
+
