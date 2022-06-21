@@ -12,7 +12,7 @@ https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Inte
 Important Java Interview Questions:
 https://www.interviewbit.com/java-interview-questions/
 
-******************************************************************* **Important concepts** **************************************
+********************************************************** **Important concepts** **************************************
 
 Immutable class in java
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
