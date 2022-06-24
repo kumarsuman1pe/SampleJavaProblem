@@ -12,7 +12,7 @@ https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Inte
 Important Java Interview Questions:
 https://www.interviewbit.com/java-interview-questions/
 
-********************************************************** **Important concepts** **************************************
+************************************** **Important concepts** **************************************
 
 Immutable class in java
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
@@ -65,7 +65,7 @@ Different ways of creating object https://www.geeksforgeeks.org/different-ways-c
 
 How to create your own Annotation?(Asked on Oracle and FICO) https://www.youtube.com/watch?v=DkZr7_c9ry8
 
-********************************************************************* **Design Patterns** ***************************************************
+**************************************** **Design Patterns** ***************************************************
 
 
 
@@ -80,8 +80,7 @@ Java concepts
 
 https://www.youtube.com/c/CodingwithJohn
 
-
-********************************************************************* **Sorting Algo** ***************************************************
+************************************************** **Sorting Algo** ***************************************************
 
 
 Sorting Algo
