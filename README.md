@@ -46,6 +46,11 @@ JVM
 https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=29s
 
 Java Memory management:
+
+https://dzone.com/articles/java-memory-management
+
+https://dzone.com/articles/understanding-the-java-memory-model-and-the-garbag
+
 (Naveen Automation)
 
 https://www.youtube.com/watch?v=4yKxJjYXZ0A
