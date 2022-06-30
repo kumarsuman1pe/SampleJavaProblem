@@ -45,6 +45,8 @@ https://www.youtube.com/watch?v=UnaNQgzw4zY&t=204s
 JVM
 https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=29s
 
+https://mindscriptstech.com/jvm-architecture/
+
 Java Memory management:
 
 https://dzone.com/articles/java-memory-management
