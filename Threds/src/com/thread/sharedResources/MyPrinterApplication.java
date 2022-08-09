@@ -7,6 +7,8 @@ public class MyPrinterApplication {
 
 		ClientA suman = new ClientA(printer);
 		ClientB deepak = new ClientB(printer);
+		
+		
 		suman.start();
 		deepak.start();
 	}
