@@ -38,7 +38,7 @@ public class ComparatorConcepts {
 
 		System.out.println("User defined Sorting order(By Implementing Comparable for Custom Objects )......");
 
-		Set<Student> customTreeSet = new TreeSet<Student>();
+		Set<Student> customTreeSet = new TreeSet<Student>(new MyStudentRollNumberComparator());
 		customTreeSet.add(new Student(11, "Suman"));
 		customTreeSet.add(new Student(112, "Ashish"));
 		customTreeSet.add(new Student(115, "Beli"));

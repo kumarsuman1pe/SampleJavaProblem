@@ -2,6 +2,7 @@ package com.sorting.comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -9,7 +10,8 @@ public class ComprableConcepts {
 
 	public static void main(String[] args) {
 
-		ArrayList<Student> studentList = new ArrayList<Student>();
+		
+		List<Student> studentList = new ArrayList<Student>();
 		studentList.add(new Student(101, "Prateek"));
 		studentList.add(new Student(105, "Deepak"));
 		studentList.add(new Student(103, "Sudipta"));
@@ -22,6 +24,39 @@ public class ComprableConcepts {
 		 */
 		Collections.sort(studentList);
 		System.out.println("Student List " + studentList);
+		
+		
+		
+		List<Integer> intList=new ArrayList<Integer>();
+		for(int i=1;i<5;i++)
+		{
+			intList.add(i);
+			
+		}
+		intList.add(0);
+		intList.add(55);
+		intList.add(11);
+
+
+		System.out.println("Comparable exapmle........@@@@@@@@@ "+intList);
+		
+//		Collections.sort(intList);
+//		System.out.println("after sort Comparable exapmle........@@@@@@@@@ "+intList);
+
+		
+		Collections.sort(intList);
+		
+		System.out.println("after sort Comparable exapmle........@@@@@@@@@ "+intList);
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
 
 		System.out.println("Tree Set concepts......");
 		/***
