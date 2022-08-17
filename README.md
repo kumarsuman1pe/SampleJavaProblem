@@ -28,6 +28,12 @@ https://dzone.com/articles/singleton-in-java
 HashMap Internal Working
 https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
 
+Comparable and Comparator in java
+
+https://www.softwaretestinghelp.com/java-comparable-and-comparator/
+
+https://www.guru99.com/comparable-vs-comparator-java.html
+
 https://www.youtube.com/watch?v=UwurUtvil7w&t=13s
 
 Generic in java
