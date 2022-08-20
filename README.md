@@ -68,6 +68,7 @@ https://www.youtube.com/watch?v=aAjkJW08BGQ&t=243s
 
 
 volatile keyword in java http://tutorials.jenkov.com/java-concurrency/volatile.html
+Transient keyword in java https://www.geeksforgeeks.org/transient-keyword-java/
 
 Different ways of creating object https://www.geeksforgeeks.org/different-ways-create-objects-java/
 
