@@ -15,6 +15,7 @@ https://www.interviewbit.com/java-interview-questions/
 ************************************** **Important concepts** **************************************
 
 Serialization and deserialization in java
+https://www.studytonight.com/java/serialization-and-deserialization.php
 
 
 Immutable class in java
