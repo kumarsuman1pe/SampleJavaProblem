@@ -15,8 +15,9 @@ https://www.interviewbit.com/java-interview-questions/
 ************************************** **Important concepts** **************************************
 
 Serialization and deserialization in java
-https://www.studytonight.com/java/serialization-and-deserialization.php
-https://dzone.com/articles/what-is-serialization-everything-about-java-serial
+1. https://www.studytonight.com/java/serialization-and-deserialization.php
+
+2. https://dzone.com/articles/what-is-serialization-everything-about-java-serial
 
 
 
