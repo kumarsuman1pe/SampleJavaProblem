@@ -25,12 +25,13 @@ Immutable class in java
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 
 Why String is immutable in JAVA
-https://www.youtube.com/watch?v=Bj9Mx_Lx3q4
+1. https://www.journaldev.com/802/string-immutable-final-java
+2. https://www.youtube.com/watch?v=Bj9Mx_Lx3q4
 
 Pass by value OR pass by reference
 https://initialcommit.com/blog/java-pass-reference-pass-value/
 
-https://www.journaldev.com/802/string-immutable-final-java
+
 
 Singleton Class
 https://dzone.com/articles/singleton-in-java
