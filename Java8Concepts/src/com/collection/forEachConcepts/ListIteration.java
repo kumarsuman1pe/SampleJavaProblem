@@ -1,4 +1,4 @@
-package com.collection.iteration;
+package com.collection.forEachConcepts;
 
 import java.util.Arrays;
 import java.util.List;
