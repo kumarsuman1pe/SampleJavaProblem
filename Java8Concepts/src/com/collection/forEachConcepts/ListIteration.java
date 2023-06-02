@@ -9,6 +9,11 @@ public class ListIteration {
 	public static void main(String[] args) {
 		List<Integer> list = List.of(1, 25, 2, 4, 55, 5);
 
+		System.out.println("Creating list in different way..");
+		List<Integer> intList = Arrays.asList(1, 2, 3, 4, 5);
+		intList.forEach(System.out::print);
+		System.out.println("ENd of: Creating list in different way..");
+
 		// default natural order
 
 		list.stream().sorted().forEach(System.out::print);
