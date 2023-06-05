@@ -1,28 +1,14 @@
-# SampleJavaProblem
-
-Important Java Interview coding Questions:
-https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
-
-https://www.softwaretestinghelp.com/java-coding-interview-programs/
-
-https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UN4ErD1w
-
-***** https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
-
-Important Java Interview Questions:
-https://www.interviewbit.com/java-interview-questions/
-
 ************************************** **Important concepts** **************************************
 
 Serialization and deserialization in java
-1. https://www.studytonight.com/java/serialization-and-deserialization.php
 
-2. https://dzone.com/articles/what-is-serialization-everything-about-java-serial
+1. https://dzone.com/articles/what-is-serialization-everything-about-java-serial
+2. https://www.studytonight.com/java/serialization-and-deserialization.php
 
-
-
+Singleton Class
+  https://dzone.com/articles/singleton-in-java
 Immutable class in java
-https://dzone.com/articles/how-to-create-an-immutable-class-in-java
+  https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 
 Why String is immutable in JAVA
 1. https://www.journaldev.com/802/string-immutable-final-java
@@ -31,10 +17,6 @@ Why String is immutable in JAVA
 Pass by value OR pass by reference
 https://initialcommit.com/blog/java-pass-reference-pass-value/
 
-
-
-Singleton Class
-https://dzone.com/articles/singleton-in-java
 
 HashMap Internal Working
 https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
@@ -114,3 +96,17 @@ https://www.youtube.com/watch?v=QN9hnmAgmOc
 https://www.youtube.com/watch?v=7h1s2SojIRw
 
 
+************************************************** **SampleJavaProblem** ***************************************************
+ 
+
+Important Java Interview coding Questions:
+https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
+
+https://www.softwaretestinghelp.com/java-coding-interview-programs/
+
+https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UN4ErD1w
+
+***** https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
+
+Important Java Interview Questions:
+https://www.interviewbit.com/java-interview-questions/
