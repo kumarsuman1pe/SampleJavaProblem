@@ -7,6 +7,7 @@ Serialization and deserialization in java
 
 Singleton Class
   https://dzone.com/articles/singleton-in-java
+
 Immutable class in java
   https://dzone.com/articles/how-to-create-an-immutable-class-in-java
 
