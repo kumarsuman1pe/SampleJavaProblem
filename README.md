@@ -1,3 +1,20 @@
+What is thread pool executor?
+Types of TP executor?
+What in Marker interface? how can we create marker interface ? how cwn implements marker interface without body?
+
+Can we run microservice without @Sprinboot apllication?
+Can we run micro service without Spring starter?
+
+What is class level lock and object level lock?
+
+How do we exclude @enableAutoConfiguration?
+What log level we write for production?
+
+
+What are the different way of communicating for multiple microservice?
+
+How do you secure microservice?
+
 ************************************** **Important concepts** **************************************
 
 Serialization and deserialization in java
