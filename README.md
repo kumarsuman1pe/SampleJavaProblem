@@ -15,6 +15,25 @@ What are the different way of communicating for multiple microservice?
 
 How do you secure microservice?
 
+What are the MicroServices design patterns you used?
+What is spring profile?
+How you implemented Service discovery?
+Write Curd operation for Employee with all annotation and Controller and path/query parameter?
+What is use of @Transaction?
+What is is @Qualifier?
+What is 
+How do you configured database in JPA?
+What is Executor service?
+What is difference between Collable and Runnable interface?
+
+What is Sql dilect?
+How do you handle Exception globally in spring boot?
+What is difference between Static and default method?
+What is try with resources?
+How you generate the Jar in spring boot?
+
+
+
 ************************************** **Important concepts** **************************************
 
 Serialization and deserialization in java
