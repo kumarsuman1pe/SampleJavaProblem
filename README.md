@@ -18,15 +18,19 @@ How to handle a scenario where one service takes some time 1 sec and some time 1
 
 
 What is a thread pool executor?
+
 Types of TP executors?
+
 What is a Marker interface? how can we create a marker interface? how can implement a marker interface without a body?
 
 Can we run a microservice without the @Sprinboot application?
+
 Can we run the spring application without a Spring starter?
 
 What is class level lock and object-level lock?
 
 How do we exclude @enableAutoConfiguration?
+
 What log level do we write for production?
 
 
@@ -35,20 +39,33 @@ What are the different ways of communicating for multiple microservice?
 How do you secure microservice?
 
 What are the MicroServices design patterns you used?
+
 What is spring profile?
+
 How you implemented Service discovery?
+
 Write Curd operation for Employee with all annotation and Controller and path/query parameter?
+
 What is use of @Transaction?
+
 What is is @Qualifier?
+
 What is 
+
 How do you configured database in JPA?
+
 What is Executor service?
+
 What is difference between Collable and Runnable interface?
 
 What is Sql dilect?
+
 How do you handle Exception globally in spring boot?
+
 What is difference between Static and default method?
+
 What is try with resources?
+
 How you generate the Jar in spring boot?
 
 
