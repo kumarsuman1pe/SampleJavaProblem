@@ -1,6 +1,9 @@
 Demonstrate deadlock with working code.
+
 Can we create a constructor with a static keyword?
+
 Why do we need the Synchronised with block and block level?
+
 Write code .eqals and hashcode method
 
 
