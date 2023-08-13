@@ -1,35 +1,71 @@
-What is thread pool executor?
-Types of TP executor?
-What in Marker interface? how can we create marker interface ? how cwn implements marker interface without body?
+Demonstrate deadlock with working code.
 
-Can we run microservice without @Sprinboot apllication?
-Can we run micro service without Spring starter?
+Can we create a constructor with a static keyword?
 
-What is class level lock and object level lock?
+Why do we need the Synchronised with block and block level?
+
+Write code .eqals and hashcode method
+
+
+Publisher subscriber problem without using the Data structure?
+
+How you use to store the password in the different tables by using the utility method so no need to write the same logic again and again in hpa(hint callback,, AOP)
+
+How to handle a scenario where one service takes some time 1 sec and some time 15 min for response then how the decent service will be communicating?
+
+
+
+
+
+What is a thread pool executor?
+
+Types of TP executors?
+
+What is a Marker interface? how can we create a marker interface? how can implement a marker interface without a body?
+
+Can we run a microservice without the @Sprinboot application?
+
+Can we run the spring application without a Spring starter?
+
+What is class level lock and object-level lock?
 
 How do we exclude @enableAutoConfiguration?
-What log level we write for production?
+
+What log level do we write for production?
 
 
-What are the different way of communicating for multiple microservice?
+What are the different ways of communicating for multiple microservice?
 
 How do you secure microservice?
 
 What are the MicroServices design patterns you used?
+
 What is spring profile?
+
 How you implemented Service discovery?
+
 Write Curd operation for Employee with all annotation and Controller and path/query parameter?
+
 What is use of @Transaction?
+
 What is is @Qualifier?
+
 What is 
+
 How do you configured database in JPA?
+
 What is Executor service?
+
 What is difference between Collable and Runnable interface?
 
 What is Sql dilect?
+
 How do you handle Exception globally in spring boot?
+
 What is difference between Static and default method?
+
 What is try with resources?
+
 How you generate the Jar in spring boot?
 
 
