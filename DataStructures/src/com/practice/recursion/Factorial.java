@@ -9,10 +9,12 @@ public class Factorial {
 	}
 
 	private static int fact(int n) {
-		if (n == 0)
+									//Step 1: base case
+		if (n == 0) {
 			return 1;
-		int smallResult=fact(n-1);
-		return n*smallResult;
+		}
+		int smallResult=fact(n-1);	//Step 2: recursive case Assumptions
+		return n*smallResult;		//Step 3: calculation
 
 	}
 

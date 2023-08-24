@@ -1,4 +1,4 @@
-package com.structural.singleton;
+package com.creational.singleton;
 
 import java.io.IOException;
 

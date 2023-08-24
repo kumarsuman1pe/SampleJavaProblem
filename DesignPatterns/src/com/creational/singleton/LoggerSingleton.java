@@ -1,4 +1,4 @@
-package com.structural.singleton;
+package com.creational.singleton;
 
 import java.io.FileWriter;
 import java.io.IOException;
