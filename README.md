@@ -130,7 +130,7 @@ https://mindscriptstech.com/jvm-architecture/
 
 Java Memory management:
 
-https://dzone.com/articles/java-memory-management
+https://dzone.com/articles/java-memory-management#:~:text=Java%20has%20automatic%20memory%20management,they%20are%20not%20used%20anymore.
 
 https://dzone.com/articles/understanding-the-java-memory-model-and-the-garbag
 
