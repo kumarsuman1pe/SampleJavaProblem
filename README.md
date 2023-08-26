@@ -1,3 +1,9 @@
+How do you handle exceptions in spring boots applicatons?
+WHat is difference between POST and PATCH http method?
+How do you secure REST endpoint? Implents JWAT token and all.
+What is added in java8 in java memory managent?
+
+
 Demonstrate deadlock with working code.
 
 Can we create a constructor with a static keyword?
