@@ -1,3 +1,12 @@
+How do you handle exceptions in spring boots applicatons?
+
+WHat is difference between POST and PATCH http method?
+
+How do you secure REST endpoint? Implents JWAT token and all.
+
+What is added in java8 in java memory managent?
+
+
 Demonstrate deadlock with working code.
 
 Can we create a constructor with a static keyword?
@@ -121,7 +130,7 @@ https://mindscriptstech.com/jvm-architecture/
 
 Java Memory management:
 
-https://dzone.com/articles/java-memory-management
+https://dzone.com/articles/java-memory-management#:~:text=Java%20has%20automatic%20memory%20management,they%20are%20not%20used%20anymore.
 
 https://dzone.com/articles/understanding-the-java-memory-model-and-the-garbag
 
