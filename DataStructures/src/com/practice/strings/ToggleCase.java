@@ -3,7 +3,7 @@ package com.practice.strings;
 public class ToggleCase {
 
 	public static void main(String[] args) {
-		String name = "SuMan KuMARz";
+		String name = "SuMan KuMARZ";
 
 		System.out.println("String before method call " + name);
 
