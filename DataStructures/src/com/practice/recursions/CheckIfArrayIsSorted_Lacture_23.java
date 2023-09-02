@@ -1,6 +1,6 @@
 package com.practice.recursions;
 
-public class CheckIfArrayIsSorted {
+public class CheckIfArrayIsSorted_Lacture_23 {
 
 	public static void main(String[] args) {
 		int a[] = new int[] { 1, 2, 3, 41, 5 };
@@ -14,9 +14,9 @@ public class CheckIfArrayIsSorted {
 		}
 		// recurssive case
 
-		boolean smallAnswer = checkIfArrayIsSorted(a, n - 1);
+		boolean isSmallArraySorted = checkIfArrayIsSorted(a, n - 1);
 		// calculation
-		if (!smallAnswer) {
+		if (!isSmallArraySorted) {
 			return false;
 		}
 		if (a[n - 1] > a[n]) {
