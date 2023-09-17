@@ -1,4 +1,4 @@
-package com.practice.recursion;
+package com.practice.recursions;
 
 public class NumberOfDigit {
 
