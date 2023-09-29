@@ -5,7 +5,7 @@ WHat is difference between POST and PATCH http method?
 How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api
 
 
-What is added in java8 in java memory managent? https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java#java-jvm-memory-model
+Java8 memory management https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java#java-jvm-memory-model
 
 
 Demonstrate deadlock with working code.
