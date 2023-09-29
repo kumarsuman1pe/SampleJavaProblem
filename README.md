@@ -2,7 +2,8 @@ How do you handle exceptions in spring boots applicatons?
 
 WHat is difference between POST and PATCH http method?
 
-How do you secure REST endpoint? Implents JWAT token and all.
+How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api
+
 
 What is added in java8 in java memory managent?
 
