@@ -10,7 +10,7 @@ Java8 memory management https://www.digitalocean.com/community/tutorials/java-jv
 linkedlist cycle https://www.youtube.com/watch?v=QnDqtsU2VXY&ab_channel=CodeDecode
 
 
-Demonstrate deadlock with working code.
+Demonstrate deadlock with working code https://www.youtube.com/watch?v=JLuFhNdmafc&ab_channel=SivaReddy
 
 Can we create a constructor with a static keyword?
 
