@@ -7,6 +7,8 @@ How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/a
 
 Java8 memory management https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java#java-jvm-memory-model
 
+linkedlist cycle https://www.youtube.com/watch?v=QnDqtsU2VXY&ab_channel=CodeDecode
+
 
 Demonstrate deadlock with working code.
 
