@@ -4,6 +4,11 @@ WHat is difference between POST and PATCH http method?
 
 How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api
 
+Spring @Controller and @RestController https://howtodoinjava.com/spring-boot2/rest/controller-restcontroller/
+Spring @GetMapping and @PostMapping https://howtodoinjava.com/spring-mvc/controller-getmapping-postmapping/
+
+Difference Between ApplicationContext and WebApplicationContext in Spring MVC https://www.geeksforgeeks.org/difference-between-applicationcontext-and-webapplicationcontext-in-spring-mvc/
+
 
 Java8 memory management https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java#java-jvm-memory-model
 
