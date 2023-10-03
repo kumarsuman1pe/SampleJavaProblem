@@ -2,12 +2,21 @@ How do you handle exceptions in spring boots applicatons?
 
 WHat is difference between POST and PATCH http method?
 
-How do you secure REST endpoint? Implents JWAT token and all.
+How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api
 
-What is added in java8 in java memory managent?
+Spring @Controller and @RestController https://howtodoinjava.com/spring-boot2/rest/controller-restcontroller/
+
+Spring @GetMapping and @PostMapping https://howtodoinjava.com/spring-mvc/controller-getmapping-postmapping/
+
+Difference Between ApplicationContext and WebApplicationContext in Spring MVC https://www.geeksforgeeks.org/difference-between-applicationcontext-and-webapplicationcontext-in-spring-mvc/
 
 
-Demonstrate deadlock with working code.
+Java8 memory management https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java#java-jvm-memory-model
+
+linkedlist cycle https://www.youtube.com/watch?v=QnDqtsU2VXY&ab_channel=CodeDecode
+
+
+Demonstrate deadlock with working code https://www.youtube.com/watch?v=JLuFhNdmafc&ab_channel=SivaReddy
 
 Can we create a constructor with a static keyword?
 
