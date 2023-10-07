@@ -113,6 +113,7 @@ HashMap Internal Working
 https://www.youtube.com/watch?v=c3RVW3KGIIE&t=1s
 
 Comparable and Comparator in java
+https://www.linkedin.com/pulse/understanding-java-garbage-collection-gc-policies-vinit-kumar/
 
 https://www.softwaretestinghelp.com/java-comparable-and-comparator/
 
