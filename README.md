@@ -10,7 +10,9 @@ Spring @GetMapping and @PostMapping https://howtodoinjava.com/spring-mvc/control
 
 Difference Between ApplicationContext and WebApplicationContext in Spring MVC https://www.geeksforgeeks.org/difference-between-applicationcontext-and-webapplicationcontext-in-spring-mvc/
 
-Distributed logs: https://www.youtube.com/watch?v=XYvQHjWJJTE&ab_channel=ByteMonk
+Distributed logs: https://www.youtube.com/watch?v=XYvQHjWJJTE&ab_channel=ByteMonk[
+](https://signoz.io/blog/distributed-tracing-in-microservices/)
+
 
 Java8 memory management https://www.digitalocean.com/community/tutorials/java-jvm-memory-model-memory-management-in-java#java-jvm-memory-model
 
