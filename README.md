@@ -1,4 +1,5 @@
-How do you handle exceptions in spring boots applicatons?
+How do you handle exceptions in spring boots applicatons? 
+https://medium.com/@bubu.tripathy/effective-exception-handling-6c0ce043d96f
 
 WHat is difference between POST and PATCH http method?
 
