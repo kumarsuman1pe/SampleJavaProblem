@@ -8,6 +8,7 @@ WHat is difference between POST and PATCH http method?Here is a simple descripti
       PATCH is always for updating a resource
 
 How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api
+      https://chat.openai.com/c/7429fc4d-e284-4d62-8643-77d3c74e9022
 
 Spring @Controller and @RestController https://howtodoinjava.com/spring-boot2/rest/controller-restcontroller/
 
