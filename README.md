@@ -1,7 +1,11 @@
 How do you handle exceptions in spring boots applicatons? 
 https://medium.com/@bubu.tripathy/effective-exception-handling-6c0ce043d96f
 
-WHat is difference between POST and PATCH http method?
+WHat is difference between POST and PATCH http method?Here is a simple description of all:
+
+      POST is always for creating a resource ( does not matter if it was duplicated )
+      PUT is for checking if resource exists then update, else create new resource
+      PATCH is always for updating a resource
 
 How do you secure REST endpoint? Implents JWAT token and all.https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api
 
