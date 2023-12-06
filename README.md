@@ -85,7 +85,7 @@ What is a thread pool executor?
 
 Types of TP executors?
 
-What is a Marker interface? how can we create a marker interface? how can implement a marker interface without a body?
+What is a Marker interface? how can we create a marker interface? how can implement a marker interface without a body?            https://chat.openai.com/c/0f628501-68e9-4278-b7e9-c4860b29b769
 
 Can we run a microservice without the @Sprinboot application?
 
