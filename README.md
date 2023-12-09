@@ -179,7 +179,12 @@ https://www.youtube.com/playlist?list=PLFGoYjJG_fqoDQHufg7XVk-yb2w6CNpgF
 Garbage Collection in JAVA
 https://www.youtube.com/watch?v=UnaNQgzw4zY&t=204s
 
+JDK,JRE and JVM
+https://dzone.com/articles/jvm-architecture-explained
+
 JVM
+https://dzone.com/articles/jvm-architecture-explained
+
 https://www.youtube.com/watch?v=ZBJ0u9MaKtM&t=29s
 
 https://mindscriptstech.com/jvm-architecture/
