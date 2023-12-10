@@ -99,6 +99,8 @@ What log level do we write for production?
 
 
 What are the different ways of communicating for multiple microservice?
+https://medium.com/design-microservices-architecture-with-patterns/microservices-communications-f319f8d76b71#:~:text=As%20you%20can%20see%20that,with%20using%20both%20communication%20types.
+
 
 How do you secure microservice?
 
