@@ -94,6 +94,7 @@ Can we run the spring application without a Spring starter?
 What is class level lock and object-level lock?
 
 How do we exclude @enableAutoConfiguration?
+https://www.baeldung.com/spring-componentscan-vs-enableautoconfiguration
 
 What log level do we write for production?
 
