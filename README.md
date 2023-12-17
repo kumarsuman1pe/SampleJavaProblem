@@ -1,3 +1,6 @@
+12 factor app?
+CAP theorem
+
 How do you handle exceptions in spring boots applicatons? 
 https://medium.com/@bubu.tripathy/effective-exception-handling-6c0ce043d96f
 
