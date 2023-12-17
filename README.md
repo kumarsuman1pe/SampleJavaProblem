@@ -1,4 +1,5 @@
 12 factor app?
+
 CAP theorem
 
 How do you handle exceptions in spring boots applicatons? 
