@@ -220,10 +220,12 @@ How to create your own Annotation?(Asked on Oracle and FICO) https://www.youtube
 **************************************** **Design Patterns** ***************************************************
 
 **Creational Design Patterns:**
+
 Builder Design patterns
 https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
 **Behavioural Design Patterns:**
+State Design patterns
 https://www.digitalocean.com/community/tutorials/state-design-pattern-java
 
 
