@@ -30,7 +30,8 @@ linkedlist cycle https://www.youtube.com/watch?v=QnDqtsU2VXY&ab_channel=CodeDeco
 
 
 Demonstrate deadlock with working code https://www.youtube.com/watch?v=JLuFhNdmafc&ab_channel=SivaReddy
-            public class Deadlock {
+            
+public class Deadlock {
     public static void main(String[] args) {
         final String resource1 = "resource1";
         final String resource2 = "resource2";
