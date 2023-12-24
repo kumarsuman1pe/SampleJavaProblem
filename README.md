@@ -223,6 +223,9 @@ How to create your own Annotation?(Asked on Oracle and FICO) https://www.youtube
 Builder Design patterns
 https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
+**Behavioural Design Patterns:**
+https://www.digitalocean.com/community/tutorials/state-design-pattern-java
+
 
 https://www.youtube.com/watch?v=gw-XKtlEiEA
 
