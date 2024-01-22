@@ -1,3 +1,7 @@
+For threads and other concepts
+https://www.youtube.com/@DefogTech/playlists
+
+
 12 factor app?
 
 CAP theorem
