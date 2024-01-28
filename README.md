@@ -1,6 +1,7 @@
 For threads and other concepts
 https://www.youtube.com/@DefogTech/playlists
 
+CQRS :https://www.youtube.com/watch?v=fzGZPf0FMao&ab_channel=JavaTechie
 
 12 factor app?
 
