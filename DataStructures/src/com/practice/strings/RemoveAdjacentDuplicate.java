@@ -6,7 +6,7 @@ import java.util.Stack;
 public class RemoveAdjacentDuplicate {
 
 	public static void main(String[] args) {
-		String s = "abbbabaaa";
+		String s = "abbbabaaba";
 		System.out.println(removeDuplicates(s));
 
 	}

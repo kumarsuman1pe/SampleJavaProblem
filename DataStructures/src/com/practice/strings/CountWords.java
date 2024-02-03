@@ -3,7 +3,7 @@ package com.practice.strings;
 public class CountWords {
 
 	public static void main(String[] args) {
-		String string = "I am Suman   Kumar ";
+		String string = "I am java  developer ";
 
 		int numerOfWords = countWords(string);
 		System.out.println("Number of word present in given string is :" + numerOfWords);
