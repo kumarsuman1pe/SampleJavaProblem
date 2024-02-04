@@ -1,4 +1,4 @@
-package com.practice.arrays;
+package com.practice.stacks;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,8 +7,7 @@ import java.util.stream.Collectors;
 
 public class NearestSmallerToLeft {
 	/*
-	 * In: {1, 6, 4, 10, 2, 5} 
-	 * Out: {_, 1, 1, 4, 1, 2}
+	 * In: {1, 6, 4, 10, 2, 5} Out: {_, 1, 1, 4, 1, 2}
 	 */
 
 //	  input:   abdc
@@ -16,7 +15,7 @@ public class NearestSmallerToLeft {
 //	
 
 	public static void main(String[] args) {
-		int input[] = { 1, 6, 4, 10, 2, 5 };
+		int input[] = { 10, 6, 4, 10, 2, 5 };
 		List<String> output = prepareNearestSmallerToLeft(input);
 		System.out.println(output.stream().collect(Collectors.joining(",")));
 		// output.stream().forEach(ele -> System.out.println(ele));
@@ -27,17 +26,17 @@ public class NearestSmallerToLeft {
 		Stack<String> stack = new Stack<String>();
 		List<String> output = new ArrayList<String>();
 		for (int i = 0; i < input.length; i++) {
+
+			while (!stack.isEmpty()) {
+				if (Integer.valueOf(stack.peek()) < (Integer.valueOf(input[i]))) {
+					output.add(stack.peek());
+					break;
+				} else {
+					stack.pop();
+				}
+			}
 			if (stack.isEmpty()) {
 				output.add("_");
-			} else {
-				while (!stack.isEmpty()) {
-					if (Integer.valueOf(stack.peek()) < (Integer.valueOf(input[i]))) {
-						output.add(stack.peek());
-						break;
-					} else {
-						stack.pop();
-					}
-				}
 			}
 			stack.add(String.valueOf(input[i]));
 		}
