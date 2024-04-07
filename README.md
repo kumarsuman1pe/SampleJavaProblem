@@ -248,32 +248,8 @@ Java concepts
 
 https://www.youtube.com/c/CodingwithJohn
 
-************************************************** **Sorting Algo** ***************************************************
+*********************************************************************************************************
 
 
-Sorting Algo
-https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U&index=2
-
-Quick Sort
-https://www.interviewbit.com/tutorial/quicksort-algorithm/
-
-https://www.youtube.com/watch?v=QN9hnmAgmOc
-
-https://www.youtube.com/watch?v=7h1s2SojIRw
-
-
-************************************************** **SampleJavaProblem** ***************************************************
+*********************************************************************************************************
  
-
-Important Java Interview coding Questions:
-https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
-
-https://www.softwaretestinghelp.com/java-coding-interview-programs/
-
-https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz7UN4ErD1w
-
-***** https://www.freecodecamp.org/news/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f/
-
-Important Java Interview Questions:
-
-https://www.interviewbit.com/java-interview-questions/
