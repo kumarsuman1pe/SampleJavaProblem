@@ -7,7 +7,11 @@ CQRS :https://www.youtube.com/watch?v=fzGZPf0FMao&ab_channel=JavaTechie
 
 CAP theorem
 
-Requestbody and param https://serinryu.medium.com/spring-requestbody-vs-requestparam-78b1b433fc0c#:~:text=%40RequestBody%20is%20used%20to%20extract,URL%20or%20submitted%20form%20data.
+Requestbody and param 
+
+https://serinryu.medium.com/spring-requestbody-vs-requestparam-78b1b433fc0c#:~:text=%40RequestBody%20is%20used%20to%20extract,URL%20or%20submitted%20form%20data.
+https://g.co/gemini/share/cbe888668ef6
+
 
 How do you handle exceptions in spring boots applicatons? 
 https://medium.com/@bubu.tripathy/effective-exception-handling-6c0ce043d96f
