@@ -1,3 +1,7 @@
+What is reentrant lock in java and how its better than synchronized block?
+
+What is difference between cuncurrenecya and parallelism?
+
 For threads and other concepts
 https://www.youtube.com/@DefogTech/playlists
 
