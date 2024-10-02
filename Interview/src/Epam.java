@@ -18,7 +18,7 @@ public class Epam {
 		String arr[] = { "abcd", "java", "dcba", "ajav", "xyz", "epam", "pame", "aepm" };
 		
 	Stream.of(arr).forEach(e->{
-		Collections.sort(Arrays.asList(e.toCharArray()));
+		String s=Stream.of(e).sorted().toString();
 	});
 	
 	

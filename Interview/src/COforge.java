@@ -17,13 +17,13 @@ public class COforge {
 		input.chars().mapToObj(e->(char)e).collect(Collectors.groupingBy(Function.identity(),Collectors.counting())).
 		forEach((e,v)->{
 			System.out.print(e);
-			System.out.print(v);
+			System.out.print(" "+v);
 			System.out.println();
 		});
-
+		System.out.println();
 		String s="hello";
 		s.chars().mapToObj(e->(char)e).sorted((e1,e2)->e2.compareTo(e1)).forEach(System.out::print);
-		
+		System.out.println();
 		String str="suman";
 		
 		String reversedString = str.chars() // Stream of character codes (int)

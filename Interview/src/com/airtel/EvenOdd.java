@@ -5,9 +5,7 @@ public class EvenOdd {
 
 	public static void main(String[] args) {
 		Print p=new Print();
-		
-		
-
+	
 		Thread evenThread=new Thread(()-> {
 		    
 			while(true) {
